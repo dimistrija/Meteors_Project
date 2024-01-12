@@ -1,2 +1,4 @@
-pandas/numpy/scipy/astropy/matplotlib
-Install all of these!
+pandas/numpy/scipy/astropy/matplotlib/docutils/plotlyexpress
+jupyterlab-citation-manager for References
+we need all of these
+
